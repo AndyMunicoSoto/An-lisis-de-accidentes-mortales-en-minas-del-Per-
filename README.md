@@ -12,8 +12,10 @@ Este proyecto analiza los accidentes mortales en la minería peruana utilizando 
 
 ## Dataset
 Fuente: [https://www.datosabiertos.gob.pe/dataset/minem-accidentes-mortales-en-mina].
+
 Características: Incluye variables como TITULAR, UNIDAD, DEPARTAMENTO, PROVINCIA, DISTRITO, CATEGORIA, TIPO_ACCIDENTE, FECHA_ACCIDENTEN, FECHA_FALLECIMIENTO.
 
 ## Herramientas Utilizadas
 Python (pandas, numpy, seaborn, matplotlib)
+
 Jupyter Notebook
