@@ -1,5 +1,8 @@
 # Analisis-de-accidentes-mortales-en-minas-del-Peru
 
+![Imagen de mina](https://www.desdeadentro.pe/wp-content/uploads/2021/12/Portada1.jpg)
+
+
 ## Descripción
 
 Este proyecto analiza los accidentes mortales en la minería peruana utilizando técnicas de análisis exploratorio de datos (EDA) y visualización. Se busca identificar patrones, tendencias y factores de riesgo asociados a los incidentes en la industria minera.
